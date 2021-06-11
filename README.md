@@ -5,3 +5,5 @@ A project from The Odin Project's [curriculum](https://www.theodinproject.com/pa
 The goal is to learn Import/Export and the use of Webpack
 
 ---
+
+[👉 Live Preview](https://nicomunoz909.github.io/restaurant-page/)
